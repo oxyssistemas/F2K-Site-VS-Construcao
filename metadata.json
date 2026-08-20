@@ -1,0 +1,6 @@
+{
+  "name": "F2K Veículos",
+  "description": "Website e showroom digital para F2K MOTORS, com catálogo interativo, avaliações do Google Maps em carrossel contínuo, simulador de financiamento, avaliação de usados, agendamento de visitas e portal administrativo escondido integrado ao Supabase para publicação de estoque, leads e fluxo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
